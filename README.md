@@ -1,9 +1,9 @@
 sobre mim
 meu nome@wojcikmaye  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-meu email de contato e estudante.alura@gmail.com.br
+-eu estou interessado em aprender novas linguagens.
+- eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch
+- 
 
 <!---
 wojcikmayer/wojcikmayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
